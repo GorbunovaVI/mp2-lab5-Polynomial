@@ -1,1 +1,1 @@
-# mp2-lab5-Polynominal
+# mp2-lab5-Polynomial
